@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "My first Post"
+title:  "My First Post"
 categories: jekyll update
 ---
 
