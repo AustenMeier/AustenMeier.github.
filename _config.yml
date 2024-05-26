@@ -24,7 +24,8 @@ description: >- # this means to ignore newlines until "baseurl:"
   A site to log my coding projects
 twitter_username: jekyllrb
 github_username:  AustenMeier
-
+baseurl: "/index" # the subpath of your site, e.g. /blog
+url: "https://austenmeier.github.io"
 # Build settings
 theme: minima
 plugins:
