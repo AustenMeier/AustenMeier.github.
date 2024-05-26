@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "My other Post"
+title:  "Lorem ipsum"
 categories: jekyll update
 ---
 
