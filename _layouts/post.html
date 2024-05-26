@@ -116,11 +116,11 @@ footer{
             </main>
             <aside>
                 <h3>Recent Posts</h3>
+ <ul>
                 {% for post in site.posts reversed %} 
- <ul>
                 <li><a href="{{post.url}}">{{post.title}}</a></li>
- <ul>
                 {% endfor %}
+ <ul>
             </aside>
             <footer>
                 <p>@ 2024 Austen</p>
