@@ -46,7 +46,7 @@ A <footer> with copyright information
 {% endhighlight %}
 
 
-here's the result:
+Here's the result:
 
 ![image](https://github.com/AustenMeier/AustenMeier.github.io/assets/170650572/c3b83478-3f21-4043-9971-f115e622696c)
 
