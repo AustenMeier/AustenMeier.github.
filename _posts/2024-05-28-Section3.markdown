@@ -1,0 +1,18 @@
+---
+layout: post
+title: Section 3
+---
+
+In section 3 of the html course I created a formatted web page that includes the following elements:
+
+Text formatted with various HTML tags, including bold, italic, and underlined text.
+Both unordered and ordered lists.
+A table with a header, body, and footer.
+Use a header with navigation links, a main section, and a footer from Sections 1 and 2.
+
+
+
+Here's the result:
+
+![image](https://github.com/AustenMeier/AustenMeier.github.io/assets/170650572/d03ee0bb-26f5-42a3-9412-8722e6c0e626)
+
