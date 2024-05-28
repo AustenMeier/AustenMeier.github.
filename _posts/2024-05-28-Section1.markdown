@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Section1"
+title:  "Section 1"
 categories: jekyll update
 ---
 In section 1 of the html course I built this simple HTML document that includes the following elements:
