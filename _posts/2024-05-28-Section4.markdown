@@ -7,7 +7,7 @@ In section 4 of the html course I created a Form with Validation that includes t
 A form with various input fields including text, email, number, tel, and textarea.
 Basic form validation using HTML attributes
 
-{% highlight htm %}
+{% highlight html linenos %}
 
 <!DOCTYPE html>
 <html>
