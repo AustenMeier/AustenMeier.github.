@@ -1,0 +1,41 @@
+---
+layout: post
+title: Section 4
+---
+
+In section 4 of the html course I created a Form with Validation that includes the following elements:
+A form with various input fields including text, email, number, tel, and textarea.
+Basic form validation using HTML attributes
+
+{% highlight htm %}
+
+<!DOCTYPE html>
+<html>
+<head>
+   <title>Hello World</title>
+</head>
+<body>
+    <h1>Hello World</h1>
+    <Form action="sumbit.php" method="post" id="myForm">
+        <label for="name">Name:</label>
+        <input type=""text" id=""name" name=""name required /><br />
+        <label for="email">Email:</label>
+        <input type="email" id="email" name="email" required /><br />
+        <label for="Age">Age:</label>
+        <input type="number" id="age" name="age" min="16" max="100" required /><br />
+        <label for="phone">Phone:</label>
+        <input type="tel" id="phone" name="phone" pattern="[0-9]{3}[0-9]{3}[0-9]{4}"  title="please add your area code." required /><br/>
+        <label for="comment">Comment:</label>    
+        <textarea id="comment" name="comment" rows="4" required></textarea>
+
+        <button type="sumbit" value="Sumbit">Sumbit</button>
+        <li><a href="index.html">Home Page</a>
+        <footer>@ 2024 Austen's Website</footer>
+    </Form>
+</body>
+</html>
+
+{% endhighlight %}
+
+Here's the result
+
