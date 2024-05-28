@@ -1,6 +1,10 @@
 ---
 layout: post
-title:  "Lorem ipsum"
+title:  "Section 1"
 categories: jekyll update
 ---
-Hey
+
+{% highlight %}
+let test = "hello world"
+console.log(test)
+{% endhighlight %}
