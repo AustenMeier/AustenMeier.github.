@@ -27,7 +27,7 @@ github_username:  AustenMeier
 baseurl: "/index" # the subpath of your site, e.g. /blog
 url: "https://austenmeier.github.io"
 # Build settings
-theme: minima
+# theme: minima
 plugins:
   - jekyll-feed
 
