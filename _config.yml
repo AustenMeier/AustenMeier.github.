@@ -26,6 +26,8 @@ twitter_username: jekyllrb
 github_username:  AustenMeier
 baseurl: "/index" # the subpath of your site, e.g. /blog
 url: "https://austenmeier.github.io"
+markdown: kramdown
+highlighter: rouge
 # Build settings
 # theme: minima
 plugins:
