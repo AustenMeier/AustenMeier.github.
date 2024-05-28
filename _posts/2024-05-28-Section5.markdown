@@ -107,5 +107,8 @@ SEO and ARIA Roles
 {% endhighlight %}
 
 Here's the result:
+
+
+
 ![image](https://github.com/AustenMeier/AustenMeier.github.io/assets/170650572/b2fd4a91-e2f6-446c-afbe-8c271ea6ef8f)
 
