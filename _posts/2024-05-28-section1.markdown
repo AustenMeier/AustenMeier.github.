@@ -3,8 +3,4 @@ layout: post
 title:  "Section1"
 categories: jekyll update
 ---
-
-{% highlight %}
-let test = "hello world"
-console.log(test)
-{% endhighlight %}
+Hey
