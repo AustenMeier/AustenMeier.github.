@@ -44,7 +44,7 @@ A hyperlink to your favorite website
  </html>
 {% endhighlight %}
 
-here's the result:
+Here's the result:
 
 ![image](https://github.com/AustenMeier/AustenMeier.github.io/assets/170650572/8c83de93-4a5e-4a34-82b1-9cbf33aded3f)
 
