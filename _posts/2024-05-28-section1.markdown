@@ -1,5 +1,6 @@
 ---
-title: Section 1
+layout: post
+title:  "Lorem ipsum"
+categories: jekyll update
 ---
-
 Hey
