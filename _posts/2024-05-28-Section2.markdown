@@ -2,7 +2,7 @@
 layout: post
 title: Section 2
 ---
-In section 1 of the html course I used Semantic HTML to create an HTML document that includes the following elements using semantic HTML tags:
+In section 2 of the html course I used Semantic HTML to create an HTML document that includes the following elements using semantic HTML tags:
 
 A <header> with a title and navigation links.
 A <main> section containing an <article> with a heading and a paragraph.
