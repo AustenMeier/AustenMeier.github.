@@ -24,6 +24,7 @@ A hyperlink to your favorite website
     <a href="index.html">Home Page</a>
 </body>
  </html>
+{% endhighlight %}
 
 here's the result:
 
@@ -32,5 +33,4 @@ here's the result:
 
 
 
-{% endhighlight %}
 
