@@ -5,7 +5,11 @@ categories: jekyll update
 ---
 Hey
 
-{% highlight %}
+{% highlight html linenos %}
+
 let test = "hello world"
 console.log(test)
+
 {% endhighlight %}
+
+javascript
