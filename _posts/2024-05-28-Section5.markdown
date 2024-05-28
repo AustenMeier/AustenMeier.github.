@@ -3,7 +3,7 @@ layout: post
 title: Section 5
 ---
 
-In section 5 of the html course I created Create a Comprehensive Web Page that includes the following elements:HTML Basics and Document Structure from Section 1
+In section 5 of the html course I created a Comprehensive Web Page that includes the following elements:HTML Basics and Document Structure from Section 1
 Semantic HTML and Advanced Layout Techniques from Section 2
 Text Formatting, Lists, and Tables from Section 3
 HTML Forms and User Input from Section 4
