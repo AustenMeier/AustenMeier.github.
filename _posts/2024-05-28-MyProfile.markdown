@@ -129,6 +129,6 @@ In the My Profile section of the html course I created a hmtl documnent using wh
 Here's the result: 
 
 <video width="320" height="240" controls>
-  <source src="Video_Project.mp4" type="video/mp4">
+  <source src="C:\Users\AustenMeier\Downloads\Video Project.mp4" type="mp4">
   Your browser does not support the video tag.
 </video>
