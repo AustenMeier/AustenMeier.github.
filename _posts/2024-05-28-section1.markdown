@@ -3,7 +3,12 @@ layout: post
 title:  "Section1"
 categories: jekyll update
 ---
-Hey
+In section 1 of the html course I built this simple HTML document that includes the following elements:
+
+A heading with the text "Hello World"
+A paragraph introducing yourself
+An image of your choice
+A hyperlink to your favorite website
 
 {% highlight html linenos %}
 
@@ -20,7 +25,12 @@ Hey
 </body>
  </html>
 
+here's the result:
+
+![image](https://github.com/AustenMeier/AustenMeier.github.io/assets/170650572/8c83de93-4a5e-4a34-82b1-9cbf33aded3f)
+
+
+
 
 {% endhighlight %}
 
-javascript
